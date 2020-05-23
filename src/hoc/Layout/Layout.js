@@ -9,7 +9,7 @@ const layout = (props) => (
     <SideBar />
     <div className={styles.appArea}>
       <Header />
-      <p>Props Children</p>
+      {props.children}
     </div>
   </div>
 );

@@ -1,7 +1,6 @@
 .navItem {
   width: 100%;
   height: 75px;
-  padding: 15px;
   background-color: #4f5f6e;
   font-size: 20px;
   color: white;
@@ -9,12 +8,11 @@
   align-items: center;
   transition: 0.2s;
 }
-.navItem.active {
-  background-color: #59c2e6;
-}
+
 .navItem:hover {
   background-color: #59c2e6;
 }
+
 .navItem i {
   margin-right: 15px;
 }
