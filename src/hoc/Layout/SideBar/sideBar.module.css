@@ -1,0 +1,10 @@
+.sideBar {
+  width: 280px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: grid;
+  grid-template-rows: 86px 1fr;
+  background-color: #4f5f6e;
+}

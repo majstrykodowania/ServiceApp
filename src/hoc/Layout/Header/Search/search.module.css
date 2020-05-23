@@ -1,0 +1,16 @@
+.search {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+}
+.search i {
+  margin-right: 15px;
+}
+.search input {
+  background-color: #d7dde4;
+  border: none;
+  height: 60px;
+  outline: none;
+  font-family: "Raleway", sans-serif;
+  font-size: 17px;
+}

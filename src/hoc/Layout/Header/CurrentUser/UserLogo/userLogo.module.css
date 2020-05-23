@@ -1,0 +1,13 @@
+.userLogo {
+  width: 60px;
+  height: 60px;
+  margin-left: 25px;
+  background-color: #4f5f6e;
+  border-radius: 50px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
